@@ -1,0 +1,5 @@
+console.info('Extension loaded from server!')
+
+export function render() {
+  return '<h1>Extension<h1>'
+}
