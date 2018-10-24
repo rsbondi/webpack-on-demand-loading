@@ -1,4 +1,6 @@
-# How do I do this?
+# How do I do this? [SOLVED]
+
+`import(filepath /* webpackIgnore: true */).then(...)` adding this comment will allow imports from outside the bundle
 
 I want an app that can load plugins/extensions that are not part of the bundle
 
